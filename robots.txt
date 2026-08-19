@@ -1,0 +1,7 @@
+# https://pittner.github.io/ - origin-root robots.txt
+# Crawlers only read robots.txt from the origin root, so this file governs
+# every project site published under pittner.github.io/<project>/.
+User-agent: *
+Allow: /
+
+Sitemap: https://pittner.github.io/sitemap.xml
